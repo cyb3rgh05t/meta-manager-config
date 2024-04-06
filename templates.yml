@@ -20,8 +20,6 @@ templates:
     overlay:
       name: <<overlay_name>>
       url: https://raw.githubusercontent.com/cyb3rgh05t/meta-manager-config/main/overlays/<<overlay_name>>.png
-      group: <<group>>
-      weight: <<weight>>
 
   Trending:
     plex_search:
