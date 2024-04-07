@@ -1,0 +1,7 @@
+overlays:
+  Background:
+    overlay:
+      name: movie-background
+      url: https://raw.githubusercontent.com/cyb3rgh05t/meta-manager-config/main/overlays/background/movie-background.png
+      weight: 2
+    plex_all: true
